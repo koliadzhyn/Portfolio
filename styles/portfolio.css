@@ -29,6 +29,10 @@ p{
     line-height: 30px;
 }
 
+.active{
+    color: var(--branding-color) !important;
+}
+
 .hero{
     background: var(--secondary-color);
     text-align: center;
@@ -51,7 +55,7 @@ p{
 }
 
 .content-container{
-    padding: 160px 20px;
+    padding: 100px 20px;
 }
 
 .content h1{
@@ -112,7 +116,7 @@ p{
 
     .content-container {
         text-align: center;
-        padding: 0;
+        padding: 20px 0px;
       }
   
     .hero {
